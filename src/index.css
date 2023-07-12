@@ -87,7 +87,8 @@ a {
   color: white;
   background: var(--blue-gradient);
   border: none;
-
+height: 35px;
+padding:0 10px 0 10px;
   border-radius: 4px;
   transition: all 300ms ease-in;
 
@@ -99,9 +100,9 @@ a {
 
 
 /* media queries */
-@media (min-width: 1536px) {
+@media (min-width: 1000px) {
   .innerWidth {
-    max-width: 1280px;
+    max-width: 950px;
     margin: auto;
   }
 }
