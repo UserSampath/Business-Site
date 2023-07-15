@@ -69,12 +69,12 @@ a {
 .primaryText {
   color: #1f3e72;
   font-weight: bold;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 
 .secondaryText {
   color: rgb(140 139 139);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 .orangeText {
   color: orange;
