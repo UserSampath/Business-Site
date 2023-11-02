@@ -15,7 +15,7 @@ export const Hero = () => {
               <br />
               Most Suitable
               <br />
-              Property
+              Property..
             </h1>
           </div>
           <div className="hero-des flexColStart">
